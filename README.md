@@ -2,11 +2,6 @@
 
 A fully client-side piano in the browser with **quarter-tone support**, **four synthesized instruments**, and **editable key bindings**.
 
-**🔗 Live demo:** https://YOUR-USERNAME.github.io/persian-piano/
-
-![Persian Piano screenshot](screenshot.png)
-
----
 
 ## Features
 
